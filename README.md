@@ -97,12 +97,6 @@ TO-DO-LIST/
 
 ---
 
-## 📸 Screenshots
-
-> Light mode · Botanical pastel theme · Floating leaf animations
-
----
-
 ## 📄 License
 
 MIT © 2026 rutujakharode6-max
